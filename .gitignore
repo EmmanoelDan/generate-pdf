@@ -1,0 +1,17 @@
+# Binários compilados
+*.exe
+*.out
+*.o
+
+# Diretórios do Go
+/vendor/
+*.test
+
+# Cache do Go
+/go-build/
+/.tmp/
+
+# Configurações do ambiente
+.env
+
+# NÃO ignore go.mod e go.sum
